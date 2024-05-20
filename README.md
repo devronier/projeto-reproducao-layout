@@ -35,19 +35,6 @@ Neste Projeto, você terá a oportunidade de praticar suas habilidades de desenv
 
 4. Sinta-se à vontade para adicionar seu toque criativo ou personalizações ao layout, mas lembre-se de manter a estrutura geral intacta.
 
-5. Complete a atividade até 19 de agosto de 2023.
- 
-## Entrega
-
-A combinar
-
-## Dúvidas
-
-Se você tiver alguma dúvida sobre a atividade, entre em contato com o instrutor por [inserir método de contato do instrutor].
-
-Divirta-se criando e reproduzindo o layout escolhido! Lembre-se de que essa atividade visa aprimorar suas habilidades de desenvolvimento e design.
-
-
 ## Materiais e recursos
 
 ### Paletas de cores
@@ -74,5 +61,3 @@ Divirta-se criando e reproduzindo o layout escolhido! Lembre-se de que essa ativ
 - [css3generator](https://css3generator.com/)
 - [webcode](https://webcode.tools/)
 - [animate](https://animate.style/)
-
-**Boa codificação!**
