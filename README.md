@@ -27,7 +27,7 @@ Neste Projeto, você terá a oportunidade de praticar suas habilidades de desenv
     - [Figma](https://www.figma.com/file/3ydszXQIlL2yi8YCLJF7ui/Ronier-landing-(Copy)?type=design&node-id=6%3A9&mode=design&t=BQaWyvB8x3tViXQ3-1)
 
 
-- [**Outras ideias**](ideias)
+- [**Outras ideias**](https://github.com/digitalcollegebr/fullstack-avaliacoes/tree/main/Modulo_I/II-HTML_e_CSS/imagens)
 
 2. Use as linguagens de marcação (HTML/CSS) ou ferramentas de sua escolha para recriar o layout selecionado.
 
